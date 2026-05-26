@@ -51,7 +51,7 @@ class Users extends CI_Controller {
         $this->load->view('user_template/footer');
     }
 
-
+uyuyuyuydasdasdsad
 public function login(){
         $email=$this->input->post('email');
         $password=$this->input->post('password');
